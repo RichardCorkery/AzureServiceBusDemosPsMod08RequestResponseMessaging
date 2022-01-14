@@ -1,4 +1,4 @@
-# azure-service-bus-demos-ps-mod8-request-response-messaging
+# AzureServiceBusDemosPsMod08RequestResponseMessaging
 
 ## Demos of Azure Service Bus: Request-Response Messaging from Pluralsight Class Azure Service Bus in Dept Module 8
 
